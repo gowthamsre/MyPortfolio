@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 📫 How to reach me **sgowthamreddy2008@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
