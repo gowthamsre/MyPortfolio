@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowtham Reddy Sanikommu</h1>
-<h3 align="center">I m Azure Cloud Engineer from India</h3>
-
-- 🌱 I’m currently learning **Devops**
+<h3 align="center">I'm Azure Cloud Engineer | Dynamic 365 CRM Specialist. Expertise in troubleshooting, optimizing and managing cloud based CRM environments to ensure seamless performance and reliability.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
